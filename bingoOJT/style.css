@@ -1,0 +1,149 @@
+body {
+  background: #ffffff;
+
+  height: 80vh;
+}
+.bottomContent {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  height: 20vh;
+}
+#showId {
+  margin: 20px;
+  height: 100px;
+}
+#showCounter {
+  margin: 20px;
+  height: 100px;
+}
+#reset-button {
+  margin: 20px;
+  height: 100px;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  height: 50vh;
+}
+#bingotable {
+  width: 50%; /* set width for each table */
+  float: left; /* float both tables to the left */
+  border-collapse: collapse;
+  text-align: center;
+  border: black;
+  width: 350px;
+  height: 350px;
+}
+td:hover {
+  background-color: yellow;
+}
+#bingotable2 {
+  margin-left: 50px;
+  margin-top: 55px;
+  width: 50%; /* set width for each table */
+  float: left; /* float both tables to the left */
+  border-collapse: collapse;
+  text-align: center;
+  border: black;
+  width: 700px;
+  height: 250px;
+}
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+.header {
+  width: 10%;
+  background: #fb8500;
+}
+.header1 {
+  width: 20%;
+  background: #fb8500;
+}
+#squarefree {
+  font-family: Helvetica;
+  margin: 0 auto;
+  background: #5dc4de;
+  text-align: center;
+  font-weight: 600;
+  font-size: 15pt;
+}
+
+/* #bingotable {
+  position: relative;
+  left: 100px;
+  top: 25px;
+  width: 350px;
+  height: 350px;
+  border-collapse: collapse;
+  background: white;
+}
+.table td {
+  width: 20%;
+  text-align: center;
+  border: black solid 2px;
+  font-family: Helvetica;
+  margin: 0 auto;
+}
+.table th {
+  font-family: Helvetica;
+  margin: 0 auto;
+  width: 20%;
+  text-align: center;
+  border: black solid 2px;
+}
+.table2 td {
+  width: 40%;
+  text-align: center;
+  border: black solid 2px;
+  font-family: Helvetica;
+  margin: 0 auto;
+}
+.table2 th {
+  font-family: Helvetica;
+  margin: 0 auto;
+  width: 40%;
+  text-align: center;
+  border: black solid 2px;
+}
+.header {
+  background: #9b59b6;
+}
+.table2 table {
+  width: 500px;
+}
+#squarefree {
+  font-family: Helvetica;
+  margin: 0 auto;
+  background: #5dc4de;
+  text-align: center;
+  font-weight: 600;
+  font-size: 15pt;
+} */
+/* }
+
+#bingotable {
+  position: relative;
+  left: 100px;
+  top: 25px;
+  width: 350px;
+  height: 350px;
+  border-collapse: collapse;
+  background: white;
+}
+
+th,
+td {
+  font-family: Helvetica;
+  margin: 0 auto;
+  text-align: center;
+  border: 3px solid black;
+  width: 20%;
+} */
+
+/* .header {
+  background: #9b59b6;
+} */
